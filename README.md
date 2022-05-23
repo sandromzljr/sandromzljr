@@ -8,13 +8,10 @@
   
 <div align = "center" style="display: inline_block"><br>
   <img alt="Sandro-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Sandro-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg">
   <img alt="Sandro-Selenium" height="50" width="50" src="https://avatars.githubusercontent.com/u/983927?s=200&v=4">
   <img alt="Sandro-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img alt="Sandro-PowerBi" height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
-  <img alt="Sandro-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Sandro-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Sandro-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Sandro-C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
   ##
