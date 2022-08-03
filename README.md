@@ -11,7 +11,6 @@
   <img alt="Sandro-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img alt="Sandro-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img alt="Sandro-NumPy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img alt="Sandro-PowerBi" height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg"> 
 </div>
   
   ##
