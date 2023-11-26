@@ -7,9 +7,11 @@
 </div>
   
 <div align = "center" style="display: inline_block"><br>
-  <img alt="Sandro-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Sandro-Hadoop" height="60" width="100" src="https://spark.apache.org/images/spark-logo-trademark.png"> 
+  <img alt="Sandro-Airflow" height="60" width="100" src="https://spark.apache.org/images/AirflowLogo.png"> 
   <img alt="Sandro-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Sandro-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img alt="Sandro-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
   ##
