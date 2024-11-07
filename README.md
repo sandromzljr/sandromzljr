@@ -16,6 +16,11 @@
   
   ##
   
+<div align = "center" style="display: inline_block"><br>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/672ce8cb31d65c235d48a4b7?variant=dark&roadmaps=devops" alt="roadmap.sh"/></a>
+</div>
+
+  ##
 <div align="center"> 
   <a href="https://www.linkedin.com/in/sandromzl-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
